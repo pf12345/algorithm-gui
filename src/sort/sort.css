@@ -1,0 +1,29 @@
+.Quicksort {
+	display: flex;
+	width: 800px;
+	height: 400px;
+	background: #666;
+	border: 1px solid #f5f5f5;
+	align-items: flex-end;
+}
+
+.Quicksort p {
+	margin: 0 10px;
+	width: 30px;
+	background: #fff;
+	height: 150px;
+}
+
+.Quicksort span {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+.sortBtn {
+	padding: 5px 20px;
+	border: 1px solid #dbdbdb;
+	outline: none;
+	background: #fff;
+	margin: 20px 0;
+}
